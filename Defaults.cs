@@ -46,15 +46,15 @@ namespace ArabizeCli
             { "ba", "ب" },          // Ba
             { "ta", "ت" },          // Ta
             { "tha", "ث" },         // Tha
-            { "jeem", "ج" },        // Jeem
+            { "jem", "ج" },        // Jeem
             { "ha", "ح" },          // Ha
             { "kha", "خ" },         // Kha
             { "dal", "د" },         // Dal
             { "thal", "ذ" },        // Thal
             { "ra", "ر" },          // Ra
             { "zay", "ز" },         // Zay
-            { "seen", "س" },        // Seen
-            { "sheen", "ش" },       // Sheen
+            { "sen", "س" },        // Seen
+            { "shen", "ش" },       // Sheen
             { "sad", "ص" },         // Sad
             { "dad", "ض" },         // Dad
             { "tta", "ط" },         // Tta
@@ -65,8 +65,8 @@ namespace ArabizeCli
             { "qaf", "ق" },         // Qaf
             { "kaf", "ك" },         // Kaf
             { "lam", "ل" },         // Lam
-            { "meem", "م" },        // Meem
-            { "noon", "ن" },        // Noon
+            { "mem", "م" },        // Meem
+            { "non", "ن" },        // Noon
             { "haa", "ه" },         // Haa
             { "waw", "و" },         // Waw
             { "ya", "ي" },          // Ya
